@@ -46,7 +46,7 @@ namespace WeatherCalculator3
                 }
                 else
                 {
-                    // Get the wind 49speed from the user
+                    // Get the wind speed from the user
                     Console.WriteLine("Enter the wind speed");
 
                     // NOTE: reusing the "input" variable to get the wind speed
